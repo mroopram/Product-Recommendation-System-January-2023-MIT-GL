@@ -8,4 +8,4 @@ This project involves recommending the best Amazon products available to users b
 Skills & Tools Covered:
 Rank Based Recommendation Systems, 
 Similarity Based Recommendation Systems, 
-Matrix Factorization Based Recommendation Systems, 
+Matrix Factorization Based Recommendation Systems
