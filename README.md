@@ -5,7 +5,7 @@ Course: Recommendation Systems
 
 This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques. 
 
-I completed the requested tasks through the template and observations were provided by me.
+I completed requested tasks through the template and observations were provided by me.
 
 Skills & Tools Covered:
 Rank Based Recommendation Systems, 
