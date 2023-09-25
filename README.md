@@ -7,6 +7,8 @@ This project involves recommending the best Amazon products available to users b
 
 I completed requested tasks through the template and observations were provided by me.
 
+Score: 60/ 60
+
 Skills & Tools Covered:
 Rank Based Recommendation Systems, 
 Similarity Based Recommendation Systems, 
