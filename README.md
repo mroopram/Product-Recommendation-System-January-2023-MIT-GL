@@ -9,6 +9,4 @@ This project involves recommending the best Amazon products available to users b
 * Similarity Based Recommendation Systems, 
 * Matrix Factorization Based Recommendation Systems
 
-I completed requested tasks through the template. Observations were provided by me.
-
 Score: 60/ 60
